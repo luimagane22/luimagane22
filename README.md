@@ -1,11 +1,9 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffb6c1,ff1493&height=200&section=header&text=Hi%20there!%20I'm%20Luisa%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Optimization%20Engineer%20%7C%20Girly%20in%20Tech%20%F0%9F%8C%B8&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1,ff69b4,ff1493&height=200&text=Hi%20there!%20I'm%20Luisa%20🌸&fontSize=40&fontColor=ffffff&desc=Data%20Scientist%20·%20Optimization%20Engineer%20·%20Girly%20in%20Tech%20💕&descSize=15&descAlignY=72&fontAlignY=45" width="100%" alt="Hi there! I'm Luisa" />
 </div>
 
 <br>
 
-<!-- About me -->
 ## 🌸 About me
 
 🎓 I hold two degrees:
@@ -14,7 +12,7 @@
 
 💼 Former **Research Assistant** at [CIMAT](https://www.cimat.mx/) under an SNI Level III researcher, where I designed and built an epidemiological surveillance system for chronic diseases across 46 municipalities in Guanajuato, Mexico — delivered as both my thesis and a functional tool for health authorities.
 
-* 🌱 I'm passionate about the intersection of mathematics, data, and real-world impact — from optimizing packaging lines in food manufacturing to modeling public health risks with clinical guidelines.
+* 🌱 Passionate about the intersection of mathematics, data, and real-world impact — from optimizing packaging lines in food manufacturing to modeling public health risks with clinical guidelines.
 * 🤔 Always open to conversations about metaheuristics, probabilistic models, optimization, and data science applied to social problems.
 * 💬 Ask me about differential evolution, Bayesian models, PCA, Streamlit dashboards, or parallel computing with OpenMP!
 * 🌍 Proud science outreach educator at CIMAT and member of [Tecnolochicas](https://tecnolochicas.mx/) — because more girls belong in tech 💪🏽
@@ -63,7 +61,7 @@ Feel free to explore my repos and reach out if you'd like to collaborate! 🌷
 
 </div>
 
-<!-- Footer -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffb6c1,ff1493&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1,ff69b4,ff1493&height=100&section=footer" width="100%" alt="footer" />
 </div>
