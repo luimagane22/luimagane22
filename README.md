@@ -3,43 +3,21 @@
 </div>
 
 <br>
-
-## 🌸 About Me
-
-Hi! I'm **Luisa Magaña** 👋
-
-A mathematician, programmer, industrial engineer, science communicator, and lifelong learner who genuinely believes that mathematics and technology can improve people's lives.
-
-I recently graduated with a **B.S. in Mathematical Computing** from the Universidad de Guanajuato and CIMAT, and I'm currently finishing my **B.S. in Industrial Engineering**. What excites me most is the intersection between these two worlds: using mathematics, computation, and engineering principles to understand complex systems and make better decisions.
-
-I spend a lot of my time exploring optimization, algorithms, data analysis, scientific computing, and high-performance computing. Not because they're academic topics, but because they give us tools to answer real questions: How can we allocate resources better? How can we improve a process? How can we use data to help people? How can we make systems more efficient, fair, and sustainable?
-
-My favorite projects are the ones that connect technical challenges with social impact. From public health analytics and epidemiological surveillance systems to optimization algorithms and industrial process improvement, I'm always looking for opportunities to apply mathematics beyond the classroom.
-
-### Things I'm passionate about
-
-- 🧮 Mathematical Optimization & Operations Research
-- ⚙️ Metaheuristics and Evolutionary Computation
-- 💻 Scientific Programming and High Performance Computing
-- 📊 Data Analytics & Machine Learning
-- 🔬 Applied Mathematics for Real-World Problems
-- 🌎 Technology for Social Impact and Community Development
-
-Beyond my technical work, I love teaching and sharing knowledge. I've participated in science outreach initiatives, STEM education programs, and activities that encourage more girls and young students to discover mathematics, science, and technology.
-
-I'm also someone who learns with enthusiasm and curiosity. I enjoy diving into new topics, asking questions, building things, and connecting ideas from different disciplines. For me, some of the most exciting innovations happen when mathematics, computing, engineering, and human needs meet in the same place.
-
-Outside of work and research, you'll probably find me:
-
-- 🏃‍♀️ Running before sunrise
-- 💃 Dancing whenever there's music
-- 🎵 Building the soundtrack for every stage of life
-- 📚 Reading something that sparks a new idea
-- 🌷 Working on outreach projects, mentoring, or volunteering for causes I care about
-
-I believe that knowledge becomes more meaningful when it is shared, and technology becomes more powerful when it serves people.
-
-Welcome to my corner of GitHub ✨
+## 🌸 About me
+ 
+Hi! I'm **Luisa Magaña** 👋 — a mathematician, programmer, industrial engineer, and lifelong learner who genuinely believes that mathematics and technology can improve people's lives.
+ 
+I hold a **B.S. in Mathematical Computing** (Universidad de Guanajuato / CIMAT, 2026) and a **B.S. in Industrial Engineering** focused on logistics and process optimization (UVEG, 2025). I spent the last year as a Research Assistant at [CIMAT](https://www.cimat.mx/) under an SNI Level III researcher, where I built an epidemiological surveillance system for chronic diseases across 46 municipalities in Guanajuato — delivered as both my thesis and a functional tool for health authorities. Before that, I reduced process losses by **36%** in a clinical lab and **15%** in food manufacturing, which taught me that good math has to land somewhere real.
+ 
+What excites me most is the intersection between rigorous mathematics and real-world impact: optimization, metaheuristics, data science, scientific computing, and machine learning applied to problems that actually matter. My favorite question is always *"how can we do this better?"*
+ 
+Beyond tech, I'm a science outreach educator at CIMAT and a member of [Tecnolochicas](https://tecnolochicas.mx/) — because more girls belong in tech 💪🏽 I also speak Spanish (native), English, French, and Mexican Sign Language 🤟
+ 
+**Outside of code:** 🏃‍♀️ running before sunrise · 💃 dancing whenever there's music · 🎵 always mid-playlist · 📚 reading things that spark new ideas
+ 
+I believe knowledge becomes more meaningful when it's shared, and technology becomes more powerful when it serves people. Welcome to my corner of GitHub ✨
+ 
+📫 [luisamagane2203@gmail.com](mailto:luisamagane2203@gmail.com) · 📸 [@lui_me22](https://instagram.com/lui_me22)
 
 
 ---
