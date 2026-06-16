@@ -1,4 +1,8 @@
-[https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ff69b4,ff1493&height=200&text=Hi%20there!%20I'm%20Luisa%20🌸&fontSize=40&fontColor=ffffff&desc=Data%20Scientist%20·%20Optimization%20Engineer%20·%20Girly%20in%20Tech%20💕&descSize=15&descAlignY=72&fontAlignY=45](https://capsule-render.vercel.app/api?type=rect&color=ffb6c1,ff69b4,ff1493&height=200&text=Hi%20there!%20I'm%20Luisa%20🌸&fontSize=40&fontColor=ffffff&desc=Data%20Scientist%20·%20Optimization%20Engineer%20·%20Girly%20in%20Tech%20💕&descSize=15&descAlignY=72&fontAlignY=45)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1,ff69b4,ff1493&height=200&text=Hi%20there!%20I'm%20Luisa%20🌸&fontSize=40&fontColor=ffffff&desc=Data%20Scientist%20·%20Optimization%20Engineer%20·%20Girly%20in%20Tech%20💕&descSize=15&descAlignY=72&fontAlignY=45" width="100%" alt="Hi there! I'm Luisa" />
+</div>
+
+<br>
 
 ## 🌸 About me
 
@@ -20,6 +24,17 @@
 🏃‍♀️ running at dawn · 💃 dancing (always) · 🎵 deep in a playlist · 📚 reading something that makes me think · 🔬 doing math outreach with kids across Guanajuato
 
 Feel free to explore my repos and reach out if you'd like to collaborate! 🌷
+
+---
+
+<div align="center">
+
+## 🌺 GitHub Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=993556&bg_color=fff0f5&border_color=ffb6c1&hide_border=false" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&title_color=ff69b4&text_color=993556&bg_color=fff0f5&border_color=ffb6c1" alt="Top languages" />
+
+</div>
 
 ---
 
@@ -57,6 +72,20 @@ Feel free to explore my repos and reach out if you'd like to collaborate! 🌷
 
 </div>
 
+---
+
+## 🌷 Featured Projects
+
+| | Project | Description |
+|---|---|---|
+| 🏥 | [ECNT Guanajuato](https://github.com/TU_USUARIO/ecnt-guanajuato) | Epidemiological surveillance dashboard · Streamlit · K-Means · 46 municipalities |
+| 🧠 | [AdaBelief from Scratch](https://github.com/TU_USUARIO/adabelief-numpy) | NeurIPS 2020 optimizer · NumPy · No frameworks · Benchmarked on 3 datasets |
+| 📅 | [University Timetabling](https://github.com/TU_USUARIO/university-timetabling-cpp) | C++ · ILS · Genetic Algorithm · Hill Climbing |
+| 🌊 | [Water Allocation · Game Theory](https://github.com/TU_USUARIO/water-allocation-game-theory) | Fair division · 3 methods · Environmental impact comparison |
+| 🔥 | [Forest Fire Percolation 3D](https://github.com/TU_USUARIO/forest-fire-percolation-3d) | Percolation theory · Real-time 3D simulation · Von Neumann neighborhood |
+| ⚡ | [Cuckoo Search + OpenMP](https://github.com/TU_USUARIO/cuckoo-search-openmp) | Parallel metaheuristic · Lévy flights · Speedup analysis |
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1,ff69b4,ff1493&height=100&section=footer" width="100%" alt="footer" />
