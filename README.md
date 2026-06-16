@@ -1,70 +1,95 @@
-# Hi, I'm Luisa 👋
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffb6c1,ff1493&height=200&section=header&text=Hi%20there!%20I'm%20Luisa%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Optimization%20Engineer%20%7C%20Girly%20in%20Tech%20%F0%9F%8C%B8&descAlignY=58&descSize=16" />
+</div>
 
-**Mathematical Computing graduate** passionate about building things at the intersection of math, data, and software.
+<br>
 
-I work with **Python, C++, and R** — from implementing optimization algorithms from scratch to deploying full-stack data applications.
+<!-- About me -->
+## 🌸 About me
 
----
+🎓 I hold two degrees:
+- **B.S. in Mathematical Computing** — Universidad de Guanajuato / CIMAT (2026)
+- **B.S. in Industrial Engineering** — focused on logistics & process optimization, UVEG (2025)
 
-## 🔬 What I work on
+💼 Former **Research Assistant** at [CIMAT](https://www.cimat.mx/) under an SNI Level III researcher, where I designed and built an epidemiological surveillance system for chronic diseases across 46 municipalities in Guanajuato, Mexico — delivered as both my thesis and a functional tool for health authorities.
 
-- **Data Science & ML** — statistical modeling, classification, clustering, dimensionality reduction
-- **Optimization** — metaheuristics (Differential Evolution, ILS, Genetic Algorithms, Cuckoo Search)
-- **High-performance computing** — parallel algorithms with OpenMP and SIMD
-- **Health informatics** — epidemiological surveillance systems, clinical risk scoring
+* 🌱 I'm passionate about the intersection of mathematics, data, and real-world impact — from optimizing packaging lines in food manufacturing to modeling public health risks with clinical guidelines.
+* 🤔 Always open to conversations about metaheuristics, probabilistic models, optimization, and data science applied to social problems.
+* 💬 Ask me about differential evolution, Bayesian models, PCA, Streamlit dashboards, or parallel computing with OpenMP!
+* 🌍 Proud science outreach educator at CIMAT and member of [Tecnolochicas](https://tecnolochicas.mx/) — because more girls belong in tech 💪🏽
+* 🤟 I speak Spanish (native), English, French, and Mexican Sign Language.
+* 📫 Reach me at: [luisamagane2203@gmail.com](mailto:luisamagane2203@gmail.com)
+* 📸 Follow me on Instagram: [@lui_me22](https://instagram.com/lui_me22)
 
----
+**Beyond code, you'll find me:**
+🏃‍♀️ running at dawn · 💃 dancing (always) · 🎵 deep in a playlist · 📚 reading something that makes me think · 🔬 doing math outreach with kids across Guanajuato
 
-## 🚀 Featured projects
-
-### 🏥 [ECNT Guanajuato — Epidemiological Surveillance Panel](link-al-repo)
-Streamlit dashboard for monitoring chronic non-communicable diseases (diabetes, hypertension, dyslipidemia, obesity) across Guanajuato, Mexico. Includes a clinical risk scoring model (0–100), automatic alerts, K-Means patient clustering, choropleth maps, and PDF report generation.
-`Python` `Streamlit` `scikit-learn` `Plotly` `Folium`
-
-### 🧠 [AdaBelief Optimizer — From Scratch](link-al-repo)
-Full NumPy implementation of the AdaBelief optimizer (NeurIPS 2020) with backpropagation from scratch. Benchmarked against Adam and SGD+Momentum on Rosenbrock, Beale, Himmelblau, Fashion-MNIST, Digits, and Breast Cancer datasets.
-`Python` `NumPy` `Deep Learning`
-
-### 📅 [University Timetabling with Metaheuristics](link-al-repo)
-C++ solver for the University Course Timetabling Problem using Hill Climbing, Iterated Local Search, and a Memetic Algorithm (GA + ILS). Outputs detailed cost breakdowns for hard and soft constraints.
-`C++` `Optimization` `Metaheuristics`
-
-### 🌊 [Water Allocation with Game Theory](link-al-repo)
-Three fair-division methods (priority, proportional, constrained equal losses) for water resource allocation among farmers, with environmental impact comparison and interactive Plotly visualizations.
-`Python` `Game Theory` `Plotly`
-
-### 🔥 [3D Forest Fire Percolation Simulation](link-al-repo)
-3D discrete simulation of wildfire propagation on a cubic grid using Von Neumann neighborhood and percolation theory. Real-time animated 3D visualization with configurable parameters.
-`Python` `Simulation` `matplotlib`
+Feel free to explore my repos and reach out if you'd like to collaborate! 🌷
 
 ---
 
-## 🛠️ Tech stack
+<!-- Stats -->
+<div align="center">
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+## 🌺 GitHub Stats
 
-**ML & Data**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493&text_color=333&bg_color=fff0f5&border_color=ffb6c1&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&title_color=ff69b4&text_color=333&bg_color=fff0f5&border_color=ffb6c1" />
 
-**Visualization & Apps**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![OpenMP](https://img.shields.io/badge/OpenMP-008080?style=flat)
+</div>
 
 ---
 
-## 📫 Let's connect
+## 🛠️ Languages & Tools I use
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](link-a-tu-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-ff1493?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-ff69b4?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ff1493?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-ff1493?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-ffb6c1?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ff69b4?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ff1493?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-ffb6c1?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-ff69b4?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff1493?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## ✋ Languages & Tools I'm learning
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-ffb6c1?style=for-the-badge&logo=docker&logoColor=white)
+![OR-Tools](https://img.shields.io/badge/OR--Tools-ff69b4?style=for-the-badge&logo=google&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-ff1493?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=white)
+
+</div>
+
+---
+
+## 🌷 Featured Projects
+
+| 🏥 [ECNT Guanajuato](https://github.com/TU_USUARIO/ecnt-guanajuato) | Epidemiological surveillance dashboard · Streamlit · K-Means · 46 municipalities |
+|---|---|
+| 🧠 [AdaBelief from Scratch](https://github.com/TU_USUARIO/adabelief-numpy) | NeurIPS 2020 optimizer · NumPy · No frameworks · Benchmarked on 3 datasets |
+| 📅 [University Timetabling](https://github.com/TU_USUARIO/university-timetabling-cpp) | C++ · ILS · Genetic Algorithm · Hill Climbing |
+| 🌊 [Water Allocation · Game Theory](https://github.com/TU_USUARIO/water-allocation-game-theory) | Fair division · 3 methods · Environmental impact |
+| 🔥 [Forest Fire Percolation 3D](https://github.com/TU_USUARIO/forest-fire-percolation-3d) | Percolation theory · 3D simulation · Real-time visualization |
+| ⚡ [Cuckoo Search + OpenMP](https://github.com/TU_USUARIO/cuckoo-search-openmp) | Parallel metaheuristic · Lévy flights · Speedup analysis |
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffb6c1,ff1493&height=120&section=footer" />
+</div>
