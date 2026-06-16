@@ -18,12 +18,12 @@ My favorite projects are the ones that connect technical challenges with social 
 
 ### Things I'm passionate about
 
-🧮 Mathematical Optimization & Operations Research
-⚙️ Metaheuristics and Evolutionary Computation
-💻 Scientific Programming and High Performance Computing
-📊 Data Analytics & Machine Learning
-🔬 Applied Mathematics for Real-World Problems
-🌎 Technology for Social Impact and Community Development
+- 🧮 Mathematical Optimization & Operations Research
+- ⚙️ Metaheuristics and Evolutionary Computation
+- 💻 Scientific Programming and High Performance Computing
+- 📊 Data Analytics & Machine Learning
+- 🔬 Applied Mathematics for Real-World Problems
+- 🌎 Technology for Social Impact and Community Development
 
 Beyond my technical work, I love teaching and sharing knowledge. I've participated in science outreach initiatives, STEM education programs, and activities that encourage more girls and young students to discover mathematics, science, and technology.
 
@@ -31,11 +31,11 @@ I'm also someone who learns with enthusiasm and curiosity. I enjoy diving into n
 
 Outside of work and research, you'll probably find me:
 
-🏃‍♀️ Running before sunrise
-💃 Dancing whenever there's music
-🎵 Building the soundtrack for every stage of life
-📚 Reading something that sparks a new idea
-🌷 Working on outreach projects, mentoring, or volunteering for causes I care about
+- 🏃‍♀️ Running before sunrise
+- 💃 Dancing whenever there's music
+- 🎵 Building the soundtrack for every stage of life
+- 📚 Reading something that sparks a new idea
+- 🌷 Working on outreach projects, mentoring, or volunteering for causes I care about
 
 I believe that knowledge becomes more meaningful when it is shared, and technology becomes more powerful when it serves people.
 
