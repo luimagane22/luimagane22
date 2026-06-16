@@ -4,26 +4,43 @@
 
 <br>
 
-## 🌸 About me
+## 🌸 About Me
 
-🎓 I hold two degrees:
-- **B.S. in Mathematical Computing** — Universidad de Guanajuato / CIMAT (2026)
-- **B.S. in Industrial Engineering** — focused on logistics & process optimization, UVEG (2025)
+Hi! I'm **Luisa Magaña** 👋
 
-💼 Former **Research Assistant** at [CIMAT](https://www.cimat.mx/) under an SNI Level III researcher, where I designed and built an epidemiological surveillance system for chronic diseases across 46 municipalities in Guanajuato, Mexico — delivered as both my thesis and a functional tool for health authorities.
+A mathematician, programmer, industrial engineer, science communicator, and lifelong learner who genuinely believes that mathematics and technology can improve people's lives.
 
-* 🌱 Passionate about the intersection of mathematics, data, and real-world impact — from optimizing packaging lines in food manufacturing to modeling public health risks with clinical guidelines.
-* 🤔 Always open to conversations about metaheuristics, probabilistic models, optimization, and data science applied to social problems.
-* 💬 Ask me about differential evolution, Bayesian models, PCA, Streamlit dashboards, or parallel computing with OpenMP!
-* 🌍 Proud science outreach educator at CIMAT and member of [Tecnolochicas](https://tecnolochicas.mx/) — because more girls belong in tech 💪🏽
-* 🤟 I speak Spanish (native), English, French, and Mexican Sign Language.
-* 📫 Reach me at: [luisamagane2203@gmail.com](mailto:luisamagane2203@gmail.com)
-* 📸 Follow me on Instagram: [@lui_me22](https://instagram.com/lui_me22)
+I recently graduated with a **B.S. in Mathematical Computing** from the Universidad de Guanajuato and CIMAT, and I'm currently finishing my **B.S. in Industrial Engineering**. What excites me most is the intersection between these two worlds: using mathematics, computation, and engineering principles to understand complex systems and make better decisions.
 
-**Beyond code, you'll find me:**
-🏃‍♀️ running at dawn · 💃 dancing (always) · 🎵 deep in a playlist · 📚 reading something that makes me think · 🔬 doing math outreach with kids across Guanajuato
+I spend a lot of my time exploring optimization, algorithms, data analysis, scientific computing, and high-performance computing. Not because they're academic topics, but because they give us tools to answer real questions: How can we allocate resources better? How can we improve a process? How can we use data to help people? How can we make systems more efficient, fair, and sustainable?
 
-Feel free to explore my repos and reach out if you'd like to collaborate! 🌷
+My favorite projects are the ones that connect technical challenges with social impact. From public health analytics and epidemiological surveillance systems to optimization algorithms and industrial process improvement, I'm always looking for opportunities to apply mathematics beyond the classroom.
+
+### Things I'm passionate about
+
+🧮 Mathematical Optimization & Operations Research
+⚙️ Metaheuristics and Evolutionary Computation
+💻 Scientific Programming and High Performance Computing
+📊 Data Analytics & Machine Learning
+🔬 Applied Mathematics for Real-World Problems
+🌎 Technology for Social Impact and Community Development
+
+Beyond my technical work, I love teaching and sharing knowledge. I've participated in science outreach initiatives, STEM education programs, and activities that encourage more girls and young students to discover mathematics, science, and technology.
+
+I'm also someone who learns with enthusiasm and curiosity. I enjoy diving into new topics, asking questions, building things, and connecting ideas from different disciplines. For me, some of the most exciting innovations happen when mathematics, computing, engineering, and human needs meet in the same place.
+
+Outside of work and research, you'll probably find me:
+
+🏃‍♀️ Running before sunrise
+💃 Dancing whenever there's music
+🎵 Building the soundtrack for every stage of life
+📚 Reading something that sparks a new idea
+🌷 Working on outreach projects, mentoring, or volunteering for causes I care about
+
+I believe that knowledge becomes more meaningful when it is shared, and technology becomes more powerful when it serves people.
+
+Welcome to my corner of GitHub ✨
+
 
 ---
 
