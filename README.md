@@ -29,18 +29,6 @@ Feel free to explore my repos and reach out if you'd like to collaborate! 🌷
 
 ---
 
-<!-- Stats -->
-<div align="center">
-
-## 🌺 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493&text_color=333&bg_color=fff0f5&border_color=ffb6c1&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&title_color=ff69b4&text_color=333&bg_color=fff0f5&border_color=ffb6c1" />
-
-</div>
-
----
-
 ## 🛠️ Languages & Tools I use
 
 <div align="center">
@@ -74,20 +62,6 @@ Feel free to explore my repos and reach out if you'd like to collaborate! 🌷
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=white)
 
 </div>
-
----
-
-## 🌷 Featured Projects
-
-| 🏥 [ECNT Guanajuato](https://github.com/TU_USUARIO/ecnt-guanajuato) | Epidemiological surveillance dashboard · Streamlit · K-Means · 46 municipalities |
-|---|---|
-| 🧠 [AdaBelief from Scratch](https://github.com/TU_USUARIO/adabelief-numpy) | NeurIPS 2020 optimizer · NumPy · No frameworks · Benchmarked on 3 datasets |
-| 📅 [University Timetabling](https://github.com/TU_USUARIO/university-timetabling-cpp) | C++ · ILS · Genetic Algorithm · Hill Climbing |
-| 🌊 [Water Allocation · Game Theory](https://github.com/TU_USUARIO/water-allocation-game-theory) | Fair division · 3 methods · Environmental impact |
-| 🔥 [Forest Fire Percolation 3D](https://github.com/TU_USUARIO/forest-fire-percolation-3d) | Percolation theory · 3D simulation · Real-time visualization |
-| ⚡ [Cuckoo Search + OpenMP](https://github.com/TU_USUARIO/cuckoo-search-openmp) | Parallel metaheuristic · Lévy flights · Speedup analysis |
-
----
 
 <!-- Footer -->
 <div align="center">
