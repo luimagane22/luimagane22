@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fb7596&height=200&text=Hi%20there!%20I'm%20Luisa%20🌸&fontSize=40&fontColor=ffffff&desc=Data%20Scientist%20·%20Optimization%20Engineer%20·%20Girly%20in%20Tech%20💕&descSize=15&descAlignY=72&fontAlignY=45" width="100%" alt="Hi there! I'm Luisa" />
-</div>
-
-<br>
+# Hi there! I'm Luisa 👋
 
 -------
 
 ## 🌸 About me
  
-Hi! I'm **Luisa Magaña** 👋 — a mathematician, programmer, industrial engineer, and lifelong learner who genuinely believes that mathematics and technology can improve people's lives.
+Hi! I'm **Luisa Magaña** — a mathematician, programmer, industrial engineer, and lifelong learner who genuinely believes that mathematics and technology can improve people's lives.
  
 I hold a **B.S. in Mathematical Computing** (Universidad de Guanajuato / CIMAT, 2026) and a **B.S. in Industrial Engineering** focused on logistics and process optimization (UVEG, 2025). I spent the last year as a Research Assistant at [CIMAT](https://www.cimat.mx/) under an SNI Level III researcher, where I built an epidemiological surveillance system for chronic diseases across 46 municipalities in Guanajuato — delivered as both my thesis and a functional tool for health authorities. Before that, I reduced process losses by **36%** in a clinical lab and **15%** in food manufacturing, which taught me that good math has to land somewhere real.
  
