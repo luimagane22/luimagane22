@@ -1,6 +1,6 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffb6c1,ff1493&height=200&section=header&text=Hi%20there!%20I'm%20Luisa%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Optimization%20Engineer%20%7C%20Girly%20in%20Tech%20%F0%9F%8C%B8&descAlignY=58&descSize=16" 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ff69b4,ff1493&height=200&text=Hi%20there!%20I'm%20Luisa%20🌸&fontSize=40&fontColor=ffffff&desc=Data%20Scientist%20·%20Optimization%20Engineer%20·%20Girly%20in%20Tech%20💕&descSize=15&descAlignY=72&fontAlignY=45" width="100%" alt="Hi there! I'm Luisa" />
+</div>
 
 <br>
 
