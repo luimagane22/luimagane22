@@ -3,6 +3,9 @@
 </div>
 
 <br>
+
+-------
+
 ## 🌸 About me
  
 Hi! I'm **Luisa Magaña** 👋 — a mathematician, programmer, industrial engineer, and lifelong learner who genuinely believes that mathematics and technology can improve people's lives.
