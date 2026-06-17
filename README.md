@@ -12,7 +12,7 @@ What excites me most is the intersection between rigorous mathematics and real-w
  
 Beyond tech, I'm a science outreach educator at CIMAT and a member of [Tecnolochicas](https://tecnolochicas.mx/) — because more girls belong in tech 💪🏽 I also speak Spanish (native), English, French, and Mexican Sign Language 🤟
  
-**Outside of code:** 🏃‍♀️ running before sunrise · 💃 dancing whenever there's music · 🎵 always mid-playlist · 📚 reading things that spark new ideas
+**Outside of code:** 🏃‍♀️ running · 💃 dancing whenever there's music (or not) · 🎵 always mid-playlist · 📚 reading things that spark new ideas
  
 I believe knowledge becomes more meaningful when it's shared, and technology becomes more powerful when it serves people. Welcome to my corner of GitHub ✨
  
